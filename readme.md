@@ -24,7 +24,7 @@ The dataset used is `penguins.csv`, which contains 5 columns:
 > The dataset was collected and made available by **Dr. Kristen Gorman** and the **Palmer Station, Antarctica LTER**, a member of the **Long Term Ecological Research Network (LTER)**.
 
 > 🧠 **Note**:  
-> This project was inspired by a DataCamp learning challenge. The full analysis and code implementation are entirely my own.
+> This project was a supervised DataCamp learning project.
 
 ---
 
